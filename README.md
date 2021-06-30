@@ -1,6 +1,7 @@
 # flutter_mybanco
 
 A new Flutter project.
+Aplicación para la materia de Topicos U.A.G.R.M.
 
 ## Getting Started
 
